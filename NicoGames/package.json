@@ -5,6 +5,7 @@
   "main": "Game.js",
   "scripts": {
     "test": "test"
+    "start": "mehweb"
   },
   "author": "",
   "license": "ISC"
